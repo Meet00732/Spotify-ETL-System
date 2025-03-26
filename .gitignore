@@ -1,0 +1,5 @@
+/Data
+/Kaggle_Data
+.cache
+.env
+*.txt
